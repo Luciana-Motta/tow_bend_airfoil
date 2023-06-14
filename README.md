@@ -1,4 +1,4 @@
-# single_bend_airfoil
+# two_bends_airfoil
 
 Estimate the performance of simple single-bend airfoils.
 
